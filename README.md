@@ -7,7 +7,7 @@
 
 ### Studies:
 
-- Physics (2020-currently) at Universitat Autònoma de Barcelona
+- [Physics (2020-currently) at Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1216102930384)
 
 ### Skills:
 - Data Science with Python:
