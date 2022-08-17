@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Carlos Herrera
 
-You can use the [editor on GitHub](https://github.com/Lentejas1/Lentejas1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Physics (2020-currently) at Universitat Autònoma de Barcelona
 
 ### Markdown
 
