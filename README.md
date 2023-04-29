@@ -2,7 +2,8 @@
 ### Work:
 
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
-- [Streamlit webapp](https://lentejas1-vgc-records-main-x631ba.streamlit.app/) where you can sort players' record from a Pokémon torunament by country. Made with [Urllib](https://github.com/python/cpython/tree/3.11/Lib/urllib/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+- [Streamlit webapp](https://lentejas1-vgc-records-main-x631ba.streamlit.app/) where you can sort players' record from a Pokémon torunament by country.
+- - Made in Python with [Urllib](https://github.com/python/cpython/tree/3.11/Lib/urllib/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
 ### Studies:
 
