@@ -1,4 +1,5 @@
 :round_pushpin: Barcelona, ES
+
 Currently working on my BSc thesis -Binary classification of particles detected at ND280 through machine learning techniques- in collaboration with IFAE's neutrino group.
 ### Work:
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
