@@ -1,8 +1,11 @@
 :round_pushpin: Barcelona, ES
 
 Currently working on my BSc thesis -Binary classification of particles detected at ND280 through machine learning techniques- in collaboration with IFAE's neutrino group.
-### Work:
+
+### Major experience:
 - Six-month internship as a Data Scientist at Banc Sabadell-Zurich Insurance.
+
+ ### Work:
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
 - [Streamlit webapp](https://lentejas1-vgc-records-main-x631ba.streamlit.app/) where you can sort players' records from a Pokémon tournament by country.
   - Made in Python with [Urllib](https://github.com/python/cpython/tree/3.11/Lib/urllib/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
