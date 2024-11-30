@@ -1,6 +1,6 @@
 :round_pushpin: Barcelona, ES
 
-Currently working on my BSc thesis -Binary classification of particles detected at ND280 through machine learning techniques- in collaboration with IFAE's neutrino group.
+I am currently working on my MSc thesis in collaboration with IFAE's ATLAS group.
 
 ### Major experience:
 - Six-month internship as a Data Scientist at Banc Sabadell-Zurich Insurance.
@@ -11,7 +11,8 @@ Currently working on my BSc thesis -Binary classification of particles detected 
   - Made in Python with [Urllib](https://github.com/python/cpython/tree/3.11/Lib/urllib/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
 ### Studies:
-- [Physics (2020-currently) at Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1216102930384)
+- MSc in High-Energy Physics (2024/25) at Universitat Autònoma de Barcelona
+- [Physics (2020-2024) at Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1216102930384)
 
 ### Skills:
 - Data Analysis with Python:
